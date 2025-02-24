@@ -14,7 +14,7 @@ import ConfiguratorView from './src/components/ConfiguratorView';
 function ConfiguratorStage() {
   return (
     <>
-      <Stage intensity={1} adjustCamera={0.6} environment={null}>
+      <Stage intensity={1} adjustCamera={1} environment={null}>
         <Suspense>
           <Model />
         </Suspense>

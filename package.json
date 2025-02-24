@@ -17,7 +17,8 @@
     "react": "18.3.1",
     "react-native": "0.77.0",
     "rtn-3d-renderer": "^0.0.2",
-    "three": "^0.173.0"
+    "three": "0.166.0",
+    "expo-three": "8.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

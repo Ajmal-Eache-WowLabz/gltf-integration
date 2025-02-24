@@ -2,8 +2,8 @@ import {View, Text, TouchableOpacity, DeviceEventEmitter} from 'react-native';
 import Constants from '../constants';
 
 const colorsWithCost = [
-  {color: '#0000ff', cost: 0, label: 'blue'},
-  {color: '#ff0000', cost: 800, label: 'black'},
+  {color: '#36454F', cost: 0, label: 'blue'},
+  {color: '#000', cost: 800, label: 'black'},
   {color: '#2d2d2d', cost: 1500, label: 'gray'},
   {color: '#2e1c00', cost: 1200, label: 'brown'},
 ];
